@@ -1,0 +1,22 @@
+{
+  "name": "mp-simple",
+  "version": "1.0.0",
+  "description": "A simple library for utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Do Minh Phong",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhphong306/mp-simple.git"
+  },
+  "keywords": [
+    "mp-simple"
+  ],
+  "bugs": {
+    "url": "https://github.com/minhphong306/mp-simple/issues"
+  },
+  "homepage": "https://github.com/minhphong306/mp-simple#readme"
+}
